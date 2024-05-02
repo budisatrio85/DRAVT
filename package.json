@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "name": "wa",
+  "version": "1.0.0",
+  "description": "gemini hack",
+  "main": "gemini-hack.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
